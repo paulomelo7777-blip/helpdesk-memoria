@@ -17,6 +17,10 @@ Repositório privado para inventário técnico, histórico de chamados, runbooks
 4. Registre cada atendimento em `chamados/2026/`.
 5. Converta soluções repetíveis em arquivos de `runbooks/`.
 
+## Memória inicial importada
+
+`MEMORIA.md` é o ponto de entrada para humanos e LLMs. Ele resume os fatos extraídos de conversas de atendimento e aponta para as unidades, chamados, runbooks e pendências correspondentes. A transcrição bruta das conversas não faz parte deste repositório.
+
 ## Convenção de nomes
 
 - Unidade: letras minúsculas e hífen, por exemplo `alvorada.md`.
