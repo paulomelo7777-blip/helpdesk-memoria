@@ -1,0 +1,19 @@
+# Segredos e exportações que nunca devem ir ao Git
+.env
+*.key
+*.pem
+*.pfx
+*.p12
+*.ovpn
+*.rdp
+credentials*
+secrets*
+*.bak
+*.zip
+*.7z
+*.log
+
+# Saídas temporárias do PowerShell
+*.tmp
+Thumbs.db
+Desktop.ini
